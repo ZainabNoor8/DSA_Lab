@@ -206,7 +206,7 @@ int main()
    int arr[5] = {10, 20, 30, 40, 50};
    ptr = arr;
    cout<<"ptr = "<<*ptr;
-   cout<<"\narr[0] = <<arr[0]";
+   cout<<"\narr[0] =" << arr[0];
    cout<<endl;
    return 0;
 }
@@ -226,7 +226,7 @@ int main()
    for(int i=0; i<5; i++)
    {
       cout<<"\n\nptr = "<<*ptr;
-      cout<<"\narr[“<<i<<”] = "<<arr[i];
+      cout<<"\narr[â€œ<<i<<â€] = "<<arr[i];
       ptr++;
    }
    cout<<endl;
