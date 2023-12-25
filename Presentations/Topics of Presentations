@@ -1,1 +1,49 @@
+TOPIC:1
+Write a program that implements the following
+i) Insertion sort ii) Merge sort iii) Bubble sort iv) Selection sort v) Linear search vi) Binary search.
 
+______________________________________________________________________________________________________________
+TOPIC:2
+--> Circular Queue using array & linked list 
+--> Queue using Stack 
+--> Stack using Queue
+--> Deque Implementation
+--> Priority Queue
+
+_______________________________________________________________________________________________________________
+TOPIC:3
+PROGRAMS
+-->INSERTION IN BST
+-->Functions for in-order, preorder and post-order traversal,search data,delete a node,
+-->find minimum value in a subtree of binary search tree.
+
+_______________________________________________________________________________________________________________
+TOPIC:4
+Write a program to perform the following operations:
+a) Insert an element into a AVL tree.
+b) Delete an element from a AVL tree.
+c) Search for a key element in a AVL tree
+
+_______________________________________________________________________________________________________________
+TOPIC:5
+Write a program that implements the followingsorting
+i) Bubble sort ii) Selection sort
+
+_______________________________________________________________________________________________________________
+TOPIC:6
+Write a program that implements the following
+i)Insertion sort ii) Merge sort
+
+_______________________________________________________________________________________________________________
+TOPIC:7
+Write a program that uses both recursive and nonrecursive functions to perform the following searching operations for a Key value 
+in a given list of integers:
+a) Linear search b) Binary search
+
+_______________________________________________________________________________________________________________
+TOPIC:8
+-->Graph(BFS,DFS)
+-->Hashing Technique(Program to implement hashing with chaining)
+-->C++ Programs to Implementation of Infix to Postfix conversion and evaluation
+
+_______________________________________________________________________________________________________________
